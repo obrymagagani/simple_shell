@@ -2,6 +2,7 @@
 
 /**
  * _myexit - exits the shell
+ * by Obry Mugagani & Carlton Ncube
  * @info: Structure containing potential arguments. Used to maintain
  * constant function prototype.
  * Return: exits with a given exit status
